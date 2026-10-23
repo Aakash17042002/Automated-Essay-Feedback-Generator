@@ -1,0 +1,22 @@
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dataset
+training_set_rel3.tsv
+
+# Large model file
+all_models.pkl
+
+# Unnecessary documents
+*.pdf
+
+# Streamlit
+.streamlit/secrets.toml
